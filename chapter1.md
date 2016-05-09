@@ -147,3 +147,35 @@ test_error()
 # Final message the student will see upon completing the exercise
 success_msg("Good work!")
 ```
+
+--- type:NormalExercise lang:r xp:100 skills:1
+## Introduction to Advanced editing
+
+Some things here
+
+*** =instructions
+- And here
+
+*** =hint
+- Hintje
+
+*** =pre_exercise_code
+```{r}
+
+```
+
+*** =sample_code
+```{r}
+# Some sample code
+```
+
+*** =solution
+```{r}
+# Some solution code
+```
+
+*** =sct
+```{r}
+
+success_msg("Good work!")
+```
