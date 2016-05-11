@@ -5,3 +5,6 @@ author_bio       : vincentvankrunkelsven is an awesome DataCamp course creator.<
 university       : DataCamp
 difficulty_level : 2
 time_needed      : 1 hour
+packages:
+  dplyr: 0.9.1
+  ggplot2: 2.0.1
