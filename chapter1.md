@@ -133,7 +133,7 @@ test_object("good_movies")
 
 # Test whether the student correctly used plot()
 # Again, we use the automatically generated feedback here
-test_function("plots", args = "x")
+test_function("plot", args = "x")
 test_function("plot", args = "y")
 test_function("plot", args = "col")
 
@@ -150,7 +150,7 @@ success_msg("Good work!")
 ```
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:0e24f71c91
-## Introduction to Advanced editing
+## Introduction to Advanced Cool stuff
 
 Some things here
 
