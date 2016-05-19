@@ -133,7 +133,7 @@ test_object("good_movies")
 
 # Test whether the student correctly used plot()
 # Again, we use the automatically generated feedback here
-test_function("plot", args = "x")
+test_function("plots", args = "x")
 test_function("plot", args = "y")
 test_function("plot", args = "col")
 
