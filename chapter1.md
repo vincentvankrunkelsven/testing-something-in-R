@@ -37,4 +37,6 @@ Some things here
 ```{r}
 
 success_msg("Good work!")
+STOP HERE
 ```
+
