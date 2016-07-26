@@ -4,11 +4,6 @@ description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
---- type:VideoExercise lang:r xp:50 skills:1 key:474e64dbf93bdc24da8dfdb6052dbfaf1a4c3819
-## Analyze movie ratings
-
-*** =video_link
-//player.vimeo.com/video/154783078
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:2b2d600a0dc2ddb0c062e569f1cedabdc02dceae
 ## A really bad movie
