@@ -37,38 +37,5 @@ Some things here
 ```{r}
 
 success_msg("Good work!")
-STOP HERE
 ```
 
-
---- type:NormalExercise lang:r xp:100 skills:1 key:670c0baf32
-## Introduction to Advanced Cool stuff
-
-Some things here
-
-*** =instructions
-- And here
-
-*** =hint
-- Hintje
-
-*** =pre_exercise_code
-```{r}
-
-```
-
-*** =sample_code
-```{r}
-# Some sample code
-```
-
-*** =solution
-```{r}
-# Some solution code
-```
-
-*** =sct
-```{r}
-
-success_msg("Good work!")
-```
