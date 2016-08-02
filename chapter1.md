@@ -35,7 +35,7 @@ Some things here
 
 *** =sct
 ```{r}
-
+test_object("not_here")
 success_msg("Good work!")
 ```
 
